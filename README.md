@@ -2,4 +2,6 @@
 
 This mini project uses Beautiful Soup package to extract details about all the episodes of Game of Thrones.
 
-![](imgs/GOTR.jpg)
+<p align="center">
+  <img  src="imgs/GOTR.jpg">
+</p>
